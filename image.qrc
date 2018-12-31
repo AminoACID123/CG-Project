@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>action/ellipse.png</file>
+        <file>action/eraser.png</file>
+        <file>action/floodfill.png</file>
+        <file>action/line.png</file>
+        <file>action/pen.png</file>
+        <file>action/polygon.png</file>
+        <file>action/rectangle.png</file>
+        <file>action/curve.png</file>
+    </qresource>
+</RCC>

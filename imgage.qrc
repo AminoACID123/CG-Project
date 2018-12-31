@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>action/eraser.png</file>
+        <file>action/floodfill.png</file>
+        <file>action/line.png</file>
+        <file>action/pen.png</file>
+        <file>action/polygon.png</file>
+        <file>action/rectangle.png</file>
+        <file>action.h</file>
+        <file>Draw.cpp</file>
+        <file>Draw.h</file>
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>paintwidget.cpp</file>
+        <file>paintwidget.h</file>
+        <file>transform.h</file>
+    </qresource>
+</RCC>
